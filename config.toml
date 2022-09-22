@@ -9,12 +9,12 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  # name = "Your name here"
-  # headline = "An awesome person"
-  # image = "img/author.jpg"  # path relative to static directory
+   name = "Jiro"
+   headline = "CS @ UC Berkeley"
+   image = "jiro-noor-03.png"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
+    # { email = "mailto:jiro.noor@berkeley.edu" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
@@ -25,14 +25,14 @@ disableKinds = ["taxonomy", "term"]
     # { facebook = "https://facebook.com/username" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
-    # { github = "https://github.com/username" },
+     { github = "https://github.com/jironoor8903" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    # { instagram = "https://instagram.com/username" },
+     { instagram = "https://www.instagram.com/nolimitjiro/" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://lastfm.com/user/username" },
-    # { linkedin = "https://linkedin.com/in/username" },
+     { linkedin = "https://www.linkedin.com/in/jiro-ryzard-noor/" },
     # { mastodon = "https://mastodon.instance/@username" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
@@ -47,7 +47,7 @@ disableKinds = ["taxonomy", "term"]
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
-    # { twitter = "https://twitter.com/username" },
+     { twitter = "https://twitter.com/jiro_noor" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
   ]
